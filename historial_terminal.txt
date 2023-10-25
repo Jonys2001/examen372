@@ -34,3 +34,13 @@
    34  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git instrucciones
    35  code instrucciones
    36  history > historial.txt
+   37  git status
+   38  git add create.sh 
+   39  git commit -m "Second commit, structure created"
+   40  git log --oneline
+   41  mv examen372.md README.md
+   42  git add create.sh
+   43  git commit -m "Third commit, add README.md and final script updated"
+   44  git add .
+   45  git commit -m "Third commit, add README.md and final script updated"
+   46  history > historial_terminal.txt

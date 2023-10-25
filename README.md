@@ -84,7 +84,7 @@
     done
     ```
 
-7. [ ] Verificar estructura con `"cmd //c tree //F ./"` debe verse de la siguiente manera
+7. [x] Verificar estructura con `"cmd //c tree //F ./"` debe verse de la siguiente manera
 
     ```
     .
@@ -111,17 +111,17 @@
 
     ```
    
-8. [ ] En este punto crea un segundo commit con el mensaje *`"Second commit, structure created"`* que contiene la actualización del script (este comando no debe ser parte del script).
+8. [x] En este punto crea un segundo commit con el mensaje *`"Second commit, structure created"`* que contiene la actualización del script (este comando no debe ser parte del script).
    
-9. [ ] En el script debe organizar la informacion moviendo los archivos a su respectiva carpeta usando el comando *`"mv"`*:
+9. [x] En el script debe organizar la informacion moviendo los archivos a su respectiva carpeta usando el comando *`"mv"`*:
    
       - [x] Mueve el archivo *`style.css`* a la carpeta **`css`**
-      - [ ] Los archivos *`fileN.txt`* a la carpeta **`docs/text`**
+      - [x] Los archivos *`fileN.txt`* a la carpeta **`docs/text`**
       - [x] El archivo *`main.py`* a la carpeta **`docs/python`**
       - [x] El *`app.js`* a la carpeta **`js`** 
       - [x] Dejar *`index.html`* en la ruta actual, dentro de **`webapp`**. 
    
-10. [ ] Al ejecutar `"cmd //c tree //F ./"` debe verse asi y concluye la programación del script:
+10. [x] Al ejecutar `"cmd //c tree //F ./"` debe verse asi y concluye la programación del script:
    
     ```
     .
@@ -150,11 +150,11 @@
 ---
 - [x] Una vez completado el script ejecutarlo para validar que haga lo antes pedido: `./create.sh`
 - [x] Mover este archivo `examen372.md` a la carpeta **`examen372`**
-- [ ] Renombrar el archivo `examen372.md` a **`README.md`** con la terminal *`"mv"`*
-- [ ] Registrar un tercer commit con el mensaje *`"Third commit, add README.md and final script updated"`*
-- [ ] Guardar el historial de sus comandos: *`history > history.txt`*
-- [ ] Registrar el último commit agregando el archivo del historial con el mensaje *`"Fourth commit, command history added"`*
-- [ ] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen372`*
+- [x] Renombrar el archivo `examen372.md` a **`README.md`** con la terminal *`"mv"`*
+- [x] Registrar un tercer commit con el mensaje *`"Third commit, add README.md and final script updated"`*
+- [x] Guardar el historial de sus comandos: *`history > history.txt`*
+- [x] Registrar el último commit agregando el archivo del historial con el mensaje *`"Fourth commit, command history added"`*
+- [x] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen372`*
 - [ ] Subir su carpeta al repositorio remoto con su famosisimo: *`git push`* 🔥👀
 
 ---
