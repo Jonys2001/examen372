@@ -155,7 +155,7 @@
 - [x] Guardar el historial de sus comandos: *`history > history.txt`*
 - [x] Registrar el último commit agregando el archivo del historial con el mensaje *`"Fourth commit, command history added"`*
 - [x] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen372`*
-- [ ] Subir su carpeta al repositorio remoto con su famosisimo: *`git push`* 🔥👀
+- [x] Subir su carpeta al repositorio remoto con su famosisimo: *`git push`* 🔥👀
 
 ---
 

@@ -44,3 +44,14 @@
    44  git add .
    45  git commit -m "Third commit, add README.md and final script updated"
    46  history > historial_terminal.txt
+   47  git remote add origin https://github.com/Jonys2001/examen372.git
+   48  git push -u origin main
+   49  git branch -M main
+   50  git push -u origin main
+   51  history
+   52  git status
+   53  git add.
+   54  git add .
+   55  git commit -m "Fourth commit, command history added"
+   56  git push
+   57  history > historial_terminal.txt
