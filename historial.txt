@@ -1,0 +1,36 @@
+    1  history
+    2  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git instrucciones
+    3  start
+    4  start .
+    5  cd
+    6  cd
+    7  mkdir examen372
+    8  cd examen372
+    9  touch create.sh
+   10  echo "#! /bin/bash" > create.sh
+   11  start create.sh
+   12  git init 
+   13  git add create.sh
+   14  git status
+   15  git commit -m "Initial comit, script added"
+   16  git status
+   17  git log --oneline
+   18  rm -rf webapp
+   19  git status
+   20  start create.sh
+   21  code create.sh
+   22  ./create.sh
+   23  start .
+   24  cmd //c tree //F ./
+   25  ./create.sh
+   26  start .
+   27  "cmd //c tree //F ./"
+   28  cmd //c tree //F ./
+   29  start .
+   30  ./create.sh
+   31  ./create.sh
+   32  ./create.sh
+   33  ./create.sh
+   34  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git instrucciones
+   35  code instrucciones
+   36  history > historial.txt
